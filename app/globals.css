@@ -246,4 +246,4 @@ a { color: inherit; }
   .card { box-shadow: none; border: 1px solid #ddd; backdrop-filter: none; background: #fff; break-inside: avoid; }
 }
 
-@media (max-width: 640px) { .wrap > .deco { display: none; } }
+@media (max-width: 900px) { .wrap > .deco { display: none; } }
