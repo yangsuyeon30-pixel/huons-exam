@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160">
+  <defs>
+    <linearGradient id="t" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#29a3e0"/><stop offset="1" stop-color="#0066b3"/></linearGradient>
+    <clipPath id="c"><rect x="44" y="10" width="72" height="140" rx="36"/></clipPath>
+  </defs>
+  <g transform="rotate(-18 80 80)">
+    <path d="M46 96 C26 92 18 76 22 60" stroke="#0f2340" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <circle cx="22" cy="56" r="9" fill="#fff" stroke="#0f2340" stroke-width="4"/>
+    <g clip-path="url(#c)">
+      <rect x="44" y="10" width="72" height="140" fill="#fff"/>
+      <rect x="44" y="10" width="72" height="70" fill="url(#t)"/>
+      <rect x="54" y="22" width="10" height="46" rx="5" fill="#fff" opacity=".35"/>
+    </g>
+    <rect x="44" y="10" width="72" height="140" rx="36" fill="none" stroke="#0f2340" stroke-width="4"/>
+    <circle cx="68" cy="100" r="5.5" fill="#0f2340"/><circle cx="70" cy="98" r="1.8" fill="#fff"/>
+    <circle cx="94" cy="100" r="5.5" fill="#0f2340"/><circle cx="96" cy="98" r="1.8" fill="#fff"/>
+    <path d="M72 114 q9 9 18 0" stroke="#0f2340" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <ellipse cx="58" cy="112" rx="6" ry="4" fill="#ff8a9b" opacity=".6"/>
+    <ellipse cx="104" cy="112" rx="6" ry="4" fill="#ff8a9b" opacity=".6"/>
+  </g>
+</svg>
